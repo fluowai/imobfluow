@@ -1,0 +1,6 @@
+{
+  "name": "ImobFluow",
+  "description": "Plataforma Inteligente de Gestão Imobiliária e Geração de Oportunidades Qualificadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
